@@ -1,4 +1,4 @@
-<h3>My Awesome Project </h3>
+<h2>My Awesome Project </h2>
 
 This repository is filled with codewards challenges. Committed to pushing 5 solutions per week.
 
@@ -6,12 +6,12 @@ Link to project: https://www.codewars.com/users/Roshanell
 
 
 
-<h3> How It's Made: </h3>
+<h2> How It's Made: </h2>
 
 Tech used: JavaScript
 
 
-<h3> Optimizations </h3>
+<h2> Optimizations </h2>
 
 I consistently refactor and optimize my code, sometimes for efficiency, sometimes for readability.
 
