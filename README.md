@@ -15,7 +15,7 @@ Tech used: JavaScript
 
 I consistently refactor and optimize my code, sometimes for efficiency, sometimes for readability.
 
-Lessons Learned:
+<h2> Lessons Learned: </h2>
 
 No matter what your experience level, being an engineer means continuously learning. Not being able to answer a question is fine but, you must ensure that you take the initaite to improve.
 
