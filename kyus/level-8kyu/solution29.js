@@ -16,4 +16,5 @@ class SmallestIntegerFinder {
       }) 
       return min
     }
-  }
+  } 
+  // done
