@@ -1,4 +1,4 @@
-<h2>My Awesome Project </h2>
+<h2> Codewars </h2>
 
 This repository is filled with codewards challenges. Committed to pushing 5 solutions per week.
 
