@@ -11,7 +11,7 @@ Link to project: https://www.codewars.com/users/Roshanell
 Tech used: JavaScript
 
 
-<h2> Optimizations </h2>
+<h2> Optimizations: </h2>
 
 I consistently refactor and optimize my code, sometimes for efficiency, sometimes for readability.
 
