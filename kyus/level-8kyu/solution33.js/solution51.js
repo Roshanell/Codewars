@@ -11,3 +11,4 @@ function opposite(number) {
    let inverse = number * -1 
     return inverse
   }
+  
