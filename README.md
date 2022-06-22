@@ -1,6 +1,6 @@
 <h2> Codewars </h2>
 
-This repository is filled with codewards challenges. Committed to pushing 5 solutions per week.
+This repository is filled with Codewar challenges. Committed to pushing 5 solutions per week.
 
 Link to project: https://www.codewars.com/users/Roshanell
 
